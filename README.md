@@ -1,8 +1,8 @@
 # form_wrapper 
 An easier way to write forms. 
-[![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)]
-  * <img src="./RnD/phase_1.png" width="600 px" height="300 px"/>
-## Goal:
+[Build Status](https://travis-ci.org/Xfennec/progress.svg?branch=master)
+  * <img src="./RnD/phase_1.png" width="6 rem" height="2 rem"/>
+## Motivation:
 - **Code:**
   ```javascript
   import React from 'react'
@@ -31,8 +31,8 @@ An easier way to write forms.
   - Body: 
       ```json
       {
-        myEmail:"email@example.com",
-        userComments:"Your comments"
+        "myEmail":"email@example.com",
+        "userComments":"Your comments"
       }
       ```
 
