@@ -1,7 +1,7 @@
 # form_wrapper 
 An easier way to write forms. 
 [Build Status](https://travis-ci.org/Xfennec/progress.svg?branch=master)
-  * <img src="./RnD/phase_1.png" width="6 rem" height="2 rem"/>
+  * <img src="./RnD/phase_1.png" width="600 px" height="300 px"/>
 ## Motivation:
 - **Code:**
   ```javascript
