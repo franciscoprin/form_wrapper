@@ -1,6 +1,5 @@
-# form_wrapper 
+# form_wrapper ![Build Status](https://travis-ci.org/Xfennec/progress.svg?branch=master)
 An easier way to write forms. 
-![Build Status](https://travis-ci.org/Xfennec/progress.svg?branch=master)
   <img src="./RnD/phase_1.png" width="600 px" height="300 px"/>
 ## Motivation:
 - **Code:**
@@ -55,13 +54,13 @@ An easier way to write forms.
     npm run dev
   ```
 
-### Acknowledgements:
+## Acknowledgements:
 - redux-form and nextjs integration:
     https://gist.github.com/rockchalkwushock/ad9219314fb18ab736fc9b7e3c694c7a
 - this.props.children manipulation:
     https://mxstbr.blog/2017/02/react-children-deepdive/
 
-### Todo:
+## Todo:
 1) The request's method and url are hardcoded in the redux action.
 2) Styled each component, (The form ui has to be improved).
 3) Dockerized application.
